@@ -9,7 +9,7 @@ $ git clone https://github.com/raghulshanmuganathan/autovac.git
  
 #  To contribute to the repository, make use of the following steps:
  
- Change to the repo folder \n
+ Change to the repo folder 
  $ cd autovac
  
  Add a connection to the original owner’s repository.
